@@ -1,0 +1,1 @@
+In this Repo, I try to use the skills of Geospatial Analysis and Modelling for Predicting the geoSpatial Activities using te ResNet18 Model. Also i have done Several tasks mention in the list and notebook as well. Go through the Notebook for detailed analysis and Model training approach as well as Visualization tasks..
